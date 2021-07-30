@@ -1,6 +1,7 @@
 {
-  "name": "SPARK",
-  "description": "All it takes is a spark",
-  "ticker": "SPARK",
-  "homepage": "https://huths0lostakepool.com"
+  "name": "Cardano Budz Testnet Pool",
+  "description": "The Dankest Asset on the Testnet",
+  "ticker": "BUDZ",
+  "homepage": "https://CardanoBudz.io",
+  "extended": "https://bit.ly/3C8LGwD"
 }
